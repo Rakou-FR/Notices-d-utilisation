@@ -17,8 +17,6 @@ Vous trouvez ici toutes les explications de comment utilisé le bot Estimation
 - Moyenne 15% : C'est la moyenne qui prend en compte des erreurs de niche et de saturation
 - Moyenne : Moyenne Brute de toute la niche
 
-
-
 ## Min&Max
 - Minimum : minimum du prix trouvé sur cette niche
 - Maximum : maximim du prix trouvé sur cette niche
@@ -28,3 +26,9 @@ Vous trouvez ici toutes les explications de comment utilisé le bot Estimation
 - Coef. Prix : Prix achat / Prix retail, donné en %
 - Prix achat : ...
 - Prix Retail : ...
+
+## Rentabilité
+- Rentabilité : Indicateur calculé pour savoir si cette niche est intéréssante
+- Seuil de Rentabilité : Savoir à partir de quand c'est rentable de vendre cette niche
+- Marge Net : ...
+- Amorti : Indicateur de rentabilité, plus il est bas mieux c'est (un bon est inférieur à 5)
