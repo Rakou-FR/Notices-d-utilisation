@@ -2,7 +2,7 @@
 Notices d'utilisation des Bots Vintools
 
 
-## Table des Matières
+## Sommaire
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contribuer](#contribuer)
