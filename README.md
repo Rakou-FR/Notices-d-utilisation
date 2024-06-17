@@ -7,7 +7,7 @@ Vous trouvez ici toutes les explications de comment utilisé le bot Estimation
 - [Les Min & Max](#Min&Max)
 - [Les Cotes & Prix](#Cotes&Prix)
 - [Rentabilité](#Rentabilité)
-- [Saturation](#saturation)
+- [Saturation](#Saturation)
 
 
 
@@ -30,5 +30,10 @@ Vous trouvez ici toutes les explications de comment utilisé le bot Estimation
 ## Rentabilité
 - Rentabilité : Indicateur calculé pour savoir si cette niche est intéréssante
 - Seuil de Rentabilité : Savoir à partir de quand c'est rentable de vendre cette niche
-- Marge Net : ...
+- Marge Net : Recette net, Moyenne - Prix Achat
 - Amorti : Indicateur de rentabilité, plus il est bas mieux c'est (un bon est inférieur à 5)
+
+## Saturation
+- Total D'annonces : Savoir la taille de la niche
+- Saturation : Indicateur de la taille de la niche, une niche saturé revois ses prix à la baisse ...
+- Coef. Saturation : % de saturation de la niche proportionelle
