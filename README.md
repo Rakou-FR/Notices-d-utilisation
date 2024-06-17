@@ -8,3 +8,7 @@ Vous trouvez ici toutes les explications de comment utilisé le bot Estimation
 - [Les Cotes](#cotes)
 - [Rentabilité](#Rentabilité)
 - [Saturation](#saturation)
+
+
+
+##Moyenne
